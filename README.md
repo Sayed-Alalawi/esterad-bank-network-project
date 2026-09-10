@@ -9,7 +9,7 @@ This project was developed during a one-month networking internship at **[Estera
 
 ## 📷 Network Topology
 
-![Network Topology](./screenshots/network-topology.png)
+![Network Topology](./screenshots/Topology_Image.png)
 
 
 ## 📝 Project Overview
