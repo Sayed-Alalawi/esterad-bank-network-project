@@ -2,7 +2,7 @@
 
 A full-scale enterprise network built from the ground up in Cisco Packet Tracer, designed to simulate a realistic corporate infrastructure — complete with departmental segmentation, security hardening, remote access, and redundancy at every critical layer.
 
-This project was developed during a one-month networking internship at **Esterad Bank Bahrain** as a hands-on capstone applying core networking and security concepts to a single connected environment.
+This project was developed during a one-month networking internship at **[Esterad Bank Bahrain](https://www.linkedin.com/company/esteradbank/)** as a hands-on capstone applying core networking and security concepts to a single connected environment.
 
 > ⚠️ All IP addressing, hostnames, and configurations in this project are for **simulation and learning purposes only** and do not reflect any real production network.
 
