@@ -41,6 +41,17 @@ Traffic flows from external clients through a simulated ISP router into a Cisco 
 | **Access Layer** | SW-IT, SW-ACCT, SW-COMP, SW-GUEST, SW-SHARED | Department-level access switching |
 | **Endpoints** | PCs, Laptops, Servers (Private/Public), Smartphone | End-user and server devices per department |
 
+## 🔐 Device Authentication
+ 
+Router and switch access is secured with local line and privileged EXEC authentication. These are fictional, self-created credentials used only within this Packet Tracer simulation — they are **not related to, or reused from, any real Esterad Bank Bahrain system**.
+ 
+**Router Login (line vty / console)**
+- Username: `bankadmin`
+- Password: `SecureBank99!`
+**Privileged EXEC Mode (all devices)**
+- Command: `enable`
+- Password: `BankAdmin123!`
+
 ## 🛠️ Tools Used
 
 - Cisco Packet Tracer
