@@ -12,7 +12,7 @@ This project was developed during a one-month networking internship at **Esterad
 
 ## 📝 Project Overview
 
-The network models a mid-sized organization connected to a simulated ISP and internet cloud, with an internal LAN split into distinct departments (IT, Accounting, Compute/Staff), a guest wireless network, shared services, and a perimeter security layer protecting it all.
+The network models a mid-sized organization connected to a simulated ISP and internet cloud, with an internal LAN split into distinct departments (IT, Accounting, Compliance), a guest wireless network, shared services, and a perimeter security layer protecting it all.
 
 Traffic flows from external clients through a simulated ISP router into a Cisco ASA firewall, then through a NAT router into a distribution switch that fans out to per-department access switches, servers, and end-user devices — with redundant paths built in so the network can survive a single device failure.
 
