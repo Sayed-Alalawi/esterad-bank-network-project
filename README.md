@@ -53,4 +53,4 @@ Traffic flows from external clients through a simulated ISP router into a Cisco 
 ## 👤 Author
 
 Built during a networking internship at Esterad Bank Bahrain, 2026.
-Feel free to connect on https://www.linkedin.com/in/sayed-alalawi/
+Feel free to connect on **[Sayed Alalawi](https://www.linkedin.com/in/sayed-alalawi/))**
